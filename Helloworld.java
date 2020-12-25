@@ -1,9 +1,9 @@
 class Helloworld{
 
     public static void main(String args[]){
-        int a;
+        String a;
 
-        a = 1;
+        a = "hello world";
 
         System.out.println(a);
     }
