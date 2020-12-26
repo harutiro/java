@@ -9,6 +9,8 @@ public class ensyuu2_3 {
 
         System.out.println("あなたが入力したのは"+a+"です。");
 
+        stdIo.close();
+
     }
     
 }

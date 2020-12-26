@@ -7,7 +7,11 @@ public class ensyuu2_4 {
         Scanner stdIn = new Scanner(System.in);
         int a = stdIn.nextInt();
         
-        System.out.println("")
+        System.out.println(a-10);
+        System.out.println(a+10);
+
+        stdIn.close();
+        
     }
     
 }
